@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ JMapViewer.jar vlcj-2.1.0.jar platform-3.4.0.jar f
+ orms-1.3.0.jar jna-3.4.0.jar
+Class-Path: .
+Rsrc-Main-Class: server.Server
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
