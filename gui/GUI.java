@@ -88,7 +88,7 @@
 /*  88:110 */     this.userTable.setModel(this.model);
 /*  89:111 */     this.userTable.setSelectionMode(0);
 /*  90:112 */     this.userTable.getColumnModel().getColumn(0).setCellRenderer(new MyRenderer());
-/*  91:113 */     this.logPanel.append(Color.blue, "*** StillBornRAT SERVER ***\nBaşlatıldı: " + 
+/*  91:113 */     this.logPanel.append(Color.blue, "*** StillBornRAT SERVER ***\nInitialized: " + 
 /*  92:    */     
 /*  93:115 */       new Date(System.currentTimeMillis()) + "\n" + 
 /*  94:116 */       "Port : " + port + "\n");
@@ -778,8 +778,12 @@
 /* 778:    */   }
 /* 779:    */ }
 
-
-/* Location:           C:\Users\SmileyFacedHacker\Downloads\StillBorn RAT (Android)\StillBorn RAT (Android)\StillBornRAT.jar
- * Qualified Name:     gui.GUI
- * JD-Core Version:    0.7.0.1
+
+
+/* Location:           C:\Users\SmileyFacedHacker\Downloads\StillBorn RAT (Android)\StillBorn RAT (Android)\StillBornRAT.jar
+
+ * Qualified Name:     gui.GUI
+
+ * JD-Core Version:    0.7.0.1
+
  */
